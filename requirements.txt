@@ -1,4 +1,7 @@
 Flask
 Flask-RESTful
-Flask-SQLAlchemy
+flask_cors
+werkzeug
+bson
+pymongo
 uwsgi
