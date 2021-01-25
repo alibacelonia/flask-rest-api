@@ -1,1 +1,1 @@
-web: gunicorn --debug app:bastaapp --log-file=-
+web: gunicorn run:my_awesome_app
