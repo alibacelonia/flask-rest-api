@@ -5,3 +5,9 @@ werkzeug
 bson
 pymongo
 uwsgi
+gunicorn
+itsdangerous
+MarkupSafe
+Werkzeug
+wheel
+requests
